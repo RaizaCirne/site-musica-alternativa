@@ -7,10 +7,12 @@
 body {
     text-align: center;
     margin: 20px;
+    background-color: #0D192B;
 }
 
 h1 {
     margin-bottom: 20px;
+    color: hsl(215, 51%, 70%);
 }
 
 .principal nav {
@@ -18,7 +20,7 @@ h1 {
 }
 
 .principal ul {
-    background-color: pink;
+    background-color: #234069;
     margin: 0 auto;
     padding: 10px 0;
     width: 71%;
@@ -27,21 +29,24 @@ h1 {
 .principal li {
     display: inline-block;
     padding: 0 70px;
+    color: hsl(178, 100%, 50%);
 }
 
 h2 {
     margin: 30px 0;
-
+    color: hsl(215, 51%, 70%);
 }
 
 img {
     width: 50%;
+    border-radius: 5px;
 }
 
 p {
     margin: 0 auto;
     padding: 30px 0;
     width: 60vw;
+    color: hsl(215, 51%, 70%);
 }
 
 h4 {
@@ -50,5 +55,4 @@ h4 {
 
 .artistas li {
     padding: 5px 0;
-
 }
