@@ -53,6 +53,27 @@ p {
     color: hsl(215, 51%, 70%);
 }
 
+h3 {
+    color: white;
+    font-weight: normal;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: nowrap;
+}
+
+.item {
+    width: 20%;
+    padding: 30px 10px;
+}
+
+.item:hover {
+    width: 21%;
+}
+
 h4 {
     margin: 10px;
 }
