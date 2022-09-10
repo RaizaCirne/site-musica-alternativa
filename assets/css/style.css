@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,500&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -8,15 +10,13 @@ body {
     text-align: center;
     margin: 20px;
     background-color: #0D192B;
+    font-family: 'Roboto', sans-serif;
 }
 
 h1 {
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     color: hsl(215, 51%, 70%);
-}
-
-.principal nav {
-    
+    font-weight: bold;
 }
 
 .principal ul {
@@ -28,27 +28,31 @@ h1 {
 
 .principal li {
     display: inline-block;
-    padding: 0 70px;
-    color: hsl(178, 100%, 50%);
+    padding: 0 60px;
+}
+
+.principal a {
+    color: hsl(215deg 51% 70%);
+}
+
+.principal a:hover {
+    color: white;
 }
 
 h2 {
-    margin: 30px 0;
+    margin: 40px 0;
     color: hsl(215, 51%, 70%);
+    font-weight: 600;
 }
 
-.foto-principal {
+img.foto-principal {
     width: 50%;
     border-radius: 5px;
 }
 
-img {
-    width: 15%;
-}
-
 p {
     margin: 0 auto;
-    padding: 30px 0;
+    padding: 30px 0 40px; 
     width: 60vw;
     color: hsl(215, 51%, 70%);
 }
@@ -65,19 +69,40 @@ h3 {
     flex-wrap: nowrap;
 }
 
-img.item {
-    width: 100%;
-    padding: 30px 10px;
-}
-
-.item:hover {
-    width: 
+.container img {
+    max-width:200px;
+    max-height:400px;
+    width: auto;
+    height: auto;
+    padding: 40px 15px 5px;
 }
 
 h4 {
-    margin: 10px;
+    color: white;
+    margin: 30px;
 }
 
-.artistas li {
+h5 {
+    color: white;
     padding: 5px 0;
+    padding-bottom: 30px;
+    margin: 0 30px;
+    list-style: none;
+    font-size: 17px;
 }
+
+.video {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 360px;
+    margin: 0 30px;
+    padding: 30px;
+}
+
+.container-videos {
+    display: flex;
+    flex-direction: row;
+}
+

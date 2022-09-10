@@ -1,0 +1,31 @@
+@media screen and (max-width:480px){
+    body {
+        width: 100vw;
+        padding: 5px 20px;
+    }
+
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        flex-wrap: nowrap;
+    }
+
+    .container-videos {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .video {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 70%;
+        height: 70%;
+        margin: 0;
+        padding: 30px 0;
+    }
+}
