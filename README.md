@@ -42,7 +42,16 @@ Data final: 11/09/2022
 
 Os usuários devem ser capazes de: 
 
-- Site em construção..
+- Clicar nos links de navegação principal denominados "Pietá", "Léo Middea", "Academia da Berlinda" e "Castello Branco", e serem direcionados para as respectivas sessões no site.  
+
+- Clicar na capa dos albúns dos artistas/bandas e serem direcionados os respectivos albúns na página do spotify. 
+
+- Assistir aos vídeos do youtube dos artistas brasileiros. 
+
+- Abrir o site na versão desktop.  
+
+- Abrir o site na versão mobile.
+
 
 <br />
 
@@ -54,41 +63,45 @@ Os usuários devem ser capazes de:
 
 - Criar um site que fala sobre artistas independentes da música alternativa brasileira.
 
+- Criar um site responsivo.
+
 <br />
 
 # 👩🚀 Meu processo <a name="id03"></a>
 
 <br />
 
-Projeto em construção....
+9 dias para concluir o projeto
 
 ## :trophy: Construção do site <a name="id03.1"></a>
 
 - Marcação HTML5 semântica
 - Propriedades CSS
+- Versão desktop 
+- Versão mobile
 
 **Construção:**
 
 1. Criação do arquivo `index.html` e do `style.css`. 
 
-2. Uma lista `ul` `li` `a` de navegação principal `nav` de redirecionamento para a sessão `section` e para os identificadores.
+2. Criação de `header`, `section`, `main` e `divs`.
 
-3. Em construção..
+3. Uma lista `ul` `li` `a` de navegação principal `nav` de redirecionamento para a sessão `section` e para os identificadores.
 
-4. Em construção..
-
-5. Em construção..
+4. Criação do arquivo `style.mobile.css` 
 
 Dentro da pasta `/design` terá os designs do projeto. 
 O desenho ficará em formato PNG estático. Usarei meu julgamento para estilos como `font-size`, `padding`e `margin`.
 
 ## :trophy: Aprendizado <a name="id03.2"></a>
 
-- Em construção...
+- Reforcei meu entendimento sobre listas não ordenadas 
+- Melhorei a organização do código no html no que diz respeito a utilização de `header` e `main`
+- Aprendi a fazer um site responsivo, onde o tamanho da página se adequa a versão mobile. 
 
 ## :trophy: Prosseguimento <a name="id03.3"></a>
 
-Realização de mais projetos nas mesmas linguagens utilizadas neste site para consolidar de forma mais potente os meus conhecimentos e ir para um nível intermediário. 
+Criar mais projetos pensando em consolidar conhecimentos em responsividade, para que sejam adequados com telas de celulares e tablets e que se adapte a qualquer ferramenta que os usuários estejam usando para facilitar a sua visualização.
 
 <br />
 
@@ -98,7 +111,11 @@ Realização de mais projetos nas mesmas linguagens utilizadas neste site para c
 
 ## :desktop_computer: Desktop design
 
-![Design preview principal]()
+![Design preview desktop](./design/musica-alternativa-desktop.png)
+
+## :iphone: Mobile design
+
+![Design preview desktop](./design/musica-alternativa-mobile.png)
 
 <br />
 
@@ -106,7 +123,7 @@ Realização de mais projetos nas mesmas linguagens utilizadas neste site para c
 
 <br />
 
-- Clique no link para acessar a página: em construção....
+- Clique no link para acessar a página: https://rococo-lily-8747d5.netlify.app/
 
 <br />
 
@@ -151,7 +168,9 @@ Abrir pasta no editor de código.
 
 <br />
 
-Em construção...
+Agradeço aos tutores do Time CoDe (em especial ao Jean Meira) que me ajudaram com os feedbacks em projetos anteriores e fez com que eu pudesse melhorar em alguns aspectos. 
+
+Agradeço também a Ana Carolina Perdigão que tirou diversas dúvidas e me ajudou demais com este projeto.
 
 <br />
 
@@ -159,7 +178,7 @@ Em construção...
 
 <br />
 
-- Personal Page - [Raíza Cirne Braz](Em construção)
+- Personal Page - [Raíza Cirne Braz](https://rococo-lily-8747d5.netlify.app/)
 - Frontend Mentor - [@RaizaCirne](https://www.frontendmentor.io/profile/RaizaCirne)
 - GitHub - [RaizaCirne](https://github.com/RaizaCirne)
 - LinkedIn - [Raíza Cirne Braz](https://www.linkedin.com/in/ra%C3%ADzacirne/)
