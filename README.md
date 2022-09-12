@@ -20,7 +20,7 @@
 
 **Site Música Alternativa.**
 
-Criação de um site que busca mostrar o cenário alternativo da música brasileira e a importância que isso traz para a nossa cultura. No meio da preferência que existe das gravadoras por sons e letras comerciais, existem artistas independentes que fazem a música acontecer com as próprias mãos, com estilo próprio, talento e autenticida
+Criação de um site que busca mostrar o cenário alternativo da música brasileira e a importância que isso traz para a nossa cultura. No meio da preferência que existe das gravadoras por sons e letras comerciais, existem artistas independentes que fazem a música acontecer com as próprias mãos, com estilo próprio, talento e autenticidade.
 
 # 🚀 Proposta <a name="id02"></a>
 
@@ -115,7 +115,7 @@ Criar mais projetos pensando em consolidar conhecimentos em responsividade, para
 
 ## :iphone: Mobile design
 
-![Design preview desktop](./design/musica-alternativa-mobile.png)
+![Design preview desktop](Em construção)
 
 <br />
 
