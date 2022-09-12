@@ -115,7 +115,7 @@ Criar mais projetos pensando em consolidar conhecimentos em responsividade, para
 
 ## :iphone: Mobile design
 
-![Design preview desktop](Em construção)
+![Design preview mobile](./design/musica-alternativa-mobile.png)
 
 <br />
 
