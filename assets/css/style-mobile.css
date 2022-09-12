@@ -2,6 +2,7 @@
     body {
         width: 100vw;
         padding: 5px 20px;
+        margin: 0 auto;
     }
 
     .container {
@@ -9,6 +10,11 @@
         flex-direction: column;
         justify-content: center;
         flex-wrap: nowrap;
+    }
+
+    img.foto-principal {
+        width: 80%;
+        border-radius: 5px;
     }
 
     .container-videos {
@@ -23,8 +29,8 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        width: 70%;
-        height: 70%;
+        width: 200px;
+        height: 315px;
         margin: 0;
         padding: 30px 0;
     }

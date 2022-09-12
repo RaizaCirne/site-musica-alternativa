@@ -52,7 +52,7 @@ img.foto-principal {
 
 p {
     margin: 0 auto;
-    padding: 30px 0 40px; 
+    padding: 30px 0 5px; 
     width: 60vw;
     color: hsl(215, 51%, 70%);
 }
@@ -60,6 +60,7 @@ p {
 h3 {
     color: white;
     font-weight: normal;
+    padding-top: 40px;
 }
 
 .container {
